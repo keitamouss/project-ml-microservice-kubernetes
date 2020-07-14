@@ -47,3 +47,14 @@ source <your_venv>/bin/activate
 * `run_docker.sh` contains the steps to get Docker running the app locally
 * `run_kubernetes.sh` contains the steps to get Kubernetes running the app locally
 * `upload_docker.sh` contains the steps to upload the image to the Docker repository
+* `screenshots/activated_virtual_env.png` contains evidence after finish Create and Activate an Environment
+* `screenshots/all_tools_version.png` contains all tools (hadolint,docker,kubectl,minikube) version 
+* `screenshots/linting_locally.png ` contains evidence status linting locally
+* `screenshots/run_docker_log_1.png-run_docker_log_5.png ` contains evidence after run docker script
+* `screenshots/make_prediction_docker.png` contains evidence after run docker prediction
+* `screenshots/upload_docker_image.png ` contains evidence to built docker image is uploaded in my own personal Docker ID
+* `screenshots/minikube_status.png ` contains evidence minikube status
+* `screenshots/Cluster_config_view.png ` contains evidence cluster config
+* `screenshots/run_kubernetes_script_first_time.png ` contains evidence first time after run kubernetes script
+* `screenshots/run_kubernetes_script_second_time.png ` contains evidence second time after run kubernetes script
+* `screenshots/make_prediction_kubernetes.png ` contains evidence after run kubernetes prediction
